@@ -14,6 +14,7 @@ import org.openqa.selenium.support.events.EventFiringWebDriver;
 import iq.crm.qa.util.TestUtil;
 import iq.crm.qa.util.WebEventListener;
 
+//base class methods
 public class TestBase {
 	
 	public static WebDriver driver;
